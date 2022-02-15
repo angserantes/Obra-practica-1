@@ -13,3 +13,11 @@ Realización de un modelo operativo simple de la aplicación destinada al Servic
    2. formulario de login
    3. index.php donde hacemos una llamada al archivo conexion.php, un formulario de búsqueda por DNI  y una parte con html para la salida de los datos de la la tabla personas.
    4. Creación de los archivos de gardar, modificar, eliminar y actualizar de los apartados de empresas y personas.
+
+## Resultado:
+
+<img src="https://user-images.githubusercontent.com/89069423/153570520-88311ce3-6312-44df-bbad-bbc7622dd4f7.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570383-4bfcf451-3d50-4a7d-8652-e4f393b820da.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570394-8d652070-f0cf-4b9b-8b09-e8173feb2657.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570403-82fd4a9b-6db7-4e04-83ca-73b3dd265f57.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570411-7fe2b539-a2cc-4f22-97fc-d306874b1812.png"/>
