@@ -47,7 +47,7 @@
     <body onload="redirixe()">
         <?php
 
-        $conn = mysqli_connect("localhost", "root", "", "obra");
+        $conn = mysqli_connect("localhost", "root", "ukJbhaVJ", "obra");
 
         // Check connection
         if ($conn === false) {

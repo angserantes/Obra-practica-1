@@ -1,6 +1,6 @@
 <?php
 	
-	require './persoas/conexion.phpconexion.php';
+	require './conexion.php';
 	
 	$id = $_POST['id'];
 	$nome = $_POST['nome'];
